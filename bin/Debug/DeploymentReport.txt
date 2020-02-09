@@ -1,0 +1,30 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[CategoryLookup] (Table)
+       [dbo].[CategoryType] (Table)
+       [dbo].[CategoryTypeLookUp] (Table)
+       [dbo].[Resource] (Table)
+       [dbo].[ResourceCategory] (Table)
+       [dbo].[ResourceServices] (Table)
+       [dbo].[ServicesLookup] (Table)
+       [dbo].[ServiceVerification] (Table)
+       [dbo].[VerificationLookUp] (Table)
+       Foreign Key: unnamed constraint on [dbo].[CategoryType] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[CategoryType] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[ResourceCategory] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[ResourceCategory] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[ResourceServices] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[ResourceServices] (Foreign Key)
+       Foreign Key: unnamed constraint on [dbo].[ServiceVerification] (Foreign Key)
+
+** Supporting actions

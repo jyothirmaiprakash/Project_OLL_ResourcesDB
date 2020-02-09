@@ -1,0 +1,10 @@
+C:\Users\Jyothirmai Nirdala\Documents\JyothirmaiNirdala\Spring 2020\Project\ResourcesDB\bin\Debug\ResourcesDB.dacpac
+C:\Users\Jyothirmai Nirdala\Documents\JyothirmaiNirdala\Spring 2020\Project\ResourcesDB\bin\Debug\ResourcesDB.dll
+C:\Users\Jyothirmai Nirdala\Documents\JyothirmaiNirdala\Spring 2020\Project\ResourcesDB\bin\Debug\ResourcesDB.pdb
+C:\Users\Jyothirmai Nirdala\Documents\JyothirmaiNirdala\Spring 2020\Project\ResourcesDB\obj\Debug\ResourcesDB.sqlprojAssemblyReference.cache
+C:\Users\Jyothirmai Nirdala\Documents\JyothirmaiNirdala\Spring 2020\Project\ResourcesDB\obj\Debug\ResourcesDB.dll
+C:\Users\Jyothirmai Nirdala\Documents\JyothirmaiNirdala\Spring 2020\Project\ResourcesDB\obj\Debug\ResourcesDB.pdb
+C:\Users\Jyothirmai Nirdala\Documents\JyothirmaiNirdala\Spring 2020\Project\ResourcesDB\obj\Debug\Model.xml
+C:\Users\Jyothirmai Nirdala\Documents\JyothirmaiNirdala\Spring 2020\Project\ResourcesDB\obj\Debug\refactor.xml
+C:\Users\Jyothirmai Nirdala\Documents\JyothirmaiNirdala\Spring 2020\Project\ResourcesDB\obj\Debug\postdeploy.sql
+C:\Users\Jyothirmai Nirdala\Documents\JyothirmaiNirdala\Spring 2020\Project\ResourcesDB\obj\Debug\predeploy.sql
